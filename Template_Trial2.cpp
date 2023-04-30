@@ -22,7 +22,7 @@ class array
 
 int main()
 {
-    array<int, 5>arr;
+    array<long long, 5>arr;
     arr.getsize();
     arr.arrtype();
 
